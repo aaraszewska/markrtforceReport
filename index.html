@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+	    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+	    <link href="style.css" rel="stylesheet" type="text/css">
+	    <script type="text/javascript" src="script.js"></script>
+             <title>MarketForceReport</title>
+
+</head>
+<body>
+  
+     <div id="main">
+             <h1>MarketForceReport</h1>
+         <div id = "conteiner">
+  
+		      <label>Location</label> <input type="text">
+		      <label>Value</label><input type="text">
+
+		 <div v-if = "responseAvailable == true">
+             <hr>
+                <p>
+                   <i>{{result}}</i>
+                </p>
+             <hr>
+         </div>
+     </div>
+		
+    
+	
+	
+      <noscript>
+            <strong>We're sorry but MarkeforceReport doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+      </noscript>
+    
+       <!-- built files will be auto injected -->
+   </div>
+</body>
+
+</html>

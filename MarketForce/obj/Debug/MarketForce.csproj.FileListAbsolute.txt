@@ -1,0 +1,17 @@
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\bin\Debug\MarketForce.exe.config
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\bin\Debug\MarketForce.exe
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\bin\Debug\MarketForce.pdb
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MarketForce.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MainWindow.g.cs
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\App.g.cs
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MarketForce_MarkupCompile.cache
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MarketForce_MarkupCompile.lref
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MainWindow.baml
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MarketForce.g.resources
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MarketForce.Properties.Resources.resources
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MarketForce.csproj.GenerateResource.cache
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MarketForce.exe
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MarketForce.pdb
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anna\Desktop\MarketForce\MarketForce\MarketForce\obj\Debug\MarketForce.csproj.CopyComplete

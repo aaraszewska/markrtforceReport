@@ -1,18 +1,18 @@
-
 <!--Main Conteiner -->
 <div id="main">
     <h1>MarketForceReport</h1>
  
 <!--Conteiner -->  
    <div id="conteiner">
-        <label>Location</label> <input type="text">
-        <label>Value</label><input type="text">
-   <button type = "button" id = "Get Data" @click = "fetchAPIData">
-   Get Data!</button>
+        <label>Location</label> <input type="text" v-model ="result">
+        <p>
+        Result: {{fetchAPIData}}
+        </p>
+        <label>Value</label><input type="text" v-model ="result">
+        <p>
+        Result:{{fetchAPIData}}
+        </p>
+  
 
-        <div v-if="responseAvailable == true">
-             <i>{{result}}</i>
-        </div>
-
- </div>
+     </div>
 </div>

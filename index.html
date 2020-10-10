@@ -1,12 +1,16 @@
 <!--Main Conteiner -->
 <div id="main">
-    <h1>MarketForceReport</h1>
- 
-<!--Conteiner -->  
-   <div id="conteiner">
-         <p><label>Location</label> <input  v-model ="fetchAPIData"></p>
-       
-         <p><label>Value</label><input  v-model ="fetchAPIData"></p>
-        
-   </div>
+  <h1>MarketForceReport</h1>
+
+  <!--Conteiner -->
+  <div id="conteiner">
+    <p><label>Result</label>
+      <textarea v-model="fetchAPIData">{{result}}</textarea></p>
+    <p><label>Location</label>
+      <textarea v-model="setValue"> {{result}}</textarea></p>
+
+    <label>Value</label> <input v-model="setLocation"> {{result2}}
+
+  </div>
+
 </div>

@@ -6,7 +6,11 @@ new Vue({
 
     result: "",
     responseAvailable: false,
-    apiKey: 'bc4b0be2fdd660c46df39aa418423b6d'
+    apiKey: 'bc4b0be2fdd660c46df39aa418423b6d',
+    location: "",
+    value: ""
+    
+    
 
 
   },
@@ -16,12 +20,12 @@ new Vue({
 
   methods: {
 
-    setLocation() {
+    getLocation(location) {
       this.setLocation = location;
       this.getLocationData();
     },
 
-    setValue(value) {
+    getValue(value) {
       this.selected = value;
       this.getValueData();
     },
@@ -55,6 +59,7 @@ new Vue({
         .catch(err => {
           console.log(err);
         });
+        
 
 
     }
